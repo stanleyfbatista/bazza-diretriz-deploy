@@ -6,4 +6,4 @@
 :HL["/idv/bazza/assets/logos/creme-stacked.webp","image"]
 :HL["/idv/bazza/assets/logos/azul-horizontal.webp","image"]
 :HL["/idv/bazza/assets/logos/creme-reduzido.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"FUxI0XEif_c2g4PhRp47i"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"XjyiFkzPwUD_FedeOJ0Nt"}
