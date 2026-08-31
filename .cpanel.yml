@@ -1,0 +1,7 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=$HOME/public_html/idv/bazza
+    - /bin/mkdir -p "$DEPLOYPATH"
+    - /bin/cp -R * "$DEPLOYPATH/"
+    - /bin/cp .htaccess "$DEPLOYPATH/.htaccess"

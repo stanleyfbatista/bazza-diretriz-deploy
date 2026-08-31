@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 255.26 255.41">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #f97426;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="-556.87" y="55.18" width="4523.44" height="781.28"/>
+    </clipPath>
+  </defs>
+  <g class="cls-3">
+    <g>
+      <path class="cls-2" d="M80.3,73.23l-6.08,6.08,100.64,100.64,6.08-6.08-100.64-100.64Z"/>
+      <path class="cls-2" d="M174.87,73.25l-100.64,100.64,6.08,6.08,100.64-100.64-6.08-6.08Z"/>
+    </g>
+  </g>
+</svg>

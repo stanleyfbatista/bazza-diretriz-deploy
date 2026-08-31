@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 255.26 255.41">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #f97426;
+      }
+
+      .cls-3 {
+        fill: #15243c;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="-3709.47" y="-269.89" width="4523.44" height="781.28"/>
+    </clipPath>
+  </defs>
+  <g class="cls-4">
+    <g>
+      <path class="cls-3" d="M131.04,77.91h-8.6v15.86h8.6v-15.86Z"/>
+      <path class="cls-3" d="M117.23,77.91h-8.6v15.86h8.6v-15.86Z"/>
+      <path class="cls-3" d="M144.84,77.91h-8.6v15.86h8.6v-15.86Z"/>
+      <path class="cls-3" d="M158.64,77.91h-8.6v15.86h8.6v-15.86Z"/>
+      <path class="cls-2" d="M165.07,177.37h-74.99c-5.85,0-10.6-4.76-10.6-10.6v-77.18l1.26-3.04,23.04-23.04,3.04-1.26h58.26c5.85,0,10.6,4.76,10.6,10.6v25.81h-8.6v-25.81c0-1.11-.9-2.01-2.01-2.01h-56.48l-20.52,20.52v75.4c0,1.11.9,2.01,2.01,2.01h74.99c1.11,0,2.01-.9,2.01-2.01v-59.71h8.6v59.71c0,5.85-4.76,10.6-10.6,10.6h-.01Z"/>
+      <path class="cls-2" d="M154.15,177.37h-53.15l-4.3-4.3v-52.33l4.3-4.3h53.15l4.3,4.3v52.33l-4.3,4.3ZM105.3,168.78h44.55v-43.73h-44.55v43.73Z"/>
+    </g>
+  </g>
+</svg>
