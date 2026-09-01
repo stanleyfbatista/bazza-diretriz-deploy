@@ -1,4 +1,4 @@
-:HL["/idv/bazza/_next/static/chunks/0ejh679m_bz71.css","style"]
+:HL["/idv/bazza/_next/static/chunks/0g0_x1wzbzoa_.css","style"]
 :HL["/idv/bazza/_next/static/media/Inter_Variable-s.p.0oy~rb7-bgeiw.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/idv/bazza/assets/logos/oficial-reduzido.webp","image"]
 :HL["/idv/bazza/assets/logos/oficial-horizontal.webp","image"]
@@ -13,4 +13,4 @@
 :HL["/idv/bazza/assets/moletom-bazza.png","image"]
 :HL["/idv/bazza/assets/social-avatar.webp","image"]
 :HL["/idv/bazza/assets/logos/creme-reduzido.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"dTKkZ0Pcpq-L8acrnmR2j"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"0AkaBb23i258QKQNncU-L"}
