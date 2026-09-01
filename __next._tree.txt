@@ -1,10 +1,11 @@
-:HL["/idv/bazza/_next/static/chunks/0zm6mafuo4hr0.css","style"]
+:HL["/idv/bazza/_next/static/chunks/0lnhllqj6u08a.css","style"]
 :HL["/idv/bazza/_next/static/media/Inter_Variable-s.p.0oy~rb7-bgeiw.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/idv/bazza/assets/logos/oficial-reduzido.webp","image"]
 :HL["/idv/bazza/assets/logos/oficial-horizontal.webp","image"]
 :HL["/idv/bazza/assets/ivan-nogueira-bazza.jpg","image"]
 :HL["/idv/bazza/assets/logos/creme-stacked.webp","image"]
 :HL["/idv/bazza/assets/logos/azul-horizontal.webp","image"]
+:HL["/idv/bazza/assets/motion/bazza-construcao-vetorial.svg","image"]
 :HL["/idv/bazza/assets/mockup-garrafas-bazza.png","image"]
 :HL["/idv/bazza/assets/logos/creme-reduzido.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"NTpExGWfydxYYSVqdUjZU"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"KELLC5zC5htmUwUK7MziB"}
