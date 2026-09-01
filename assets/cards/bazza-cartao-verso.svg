@@ -17,11 +17,11 @@
       }
 
       .cls-3, .cls-4 {
-        fill: #fbf4ec;
+        fill: #fbf4ed;
       }
 
       .cls-5 {
-        fill: #d35b31;
+        fill: #fa5402;
       }
 
       .cls-4 {
@@ -33,7 +33,7 @@
 
       .cls-6 {
         fill: none;
-        stroke: #262741;
+        stroke: #15243c;
         stroke-width: .25px;
       }
     </style>
