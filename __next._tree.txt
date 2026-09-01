@@ -1,4 +1,4 @@
-:HL["/idv/bazza/_next/static/chunks/0hjbeyy_o65at.css","style"]
+:HL["/idv/bazza/_next/static/chunks/0g9ng8zz-x-gr.css","style"]
 :HL["/idv/bazza/_next/static/media/Inter_Variable-s.p.0oy~rb7-bgeiw.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/idv/bazza/assets/logos/oficial-reduzido.webp","image"]
 :HL["/idv/bazza/assets/logos/oficial-horizontal.webp","image"]
@@ -9,8 +9,7 @@
 :HL["/idv/bazza/assets/cards/bazza-cartao-verso.svg","image"]
 :HL["/idv/bazza/assets/timbrado-bazza-mockup.png","image"]
 :HL["/idv/bazza/assets/cracha-bazza-mockup.png","image"]
-:HL["/idv/bazza/assets/camiseta-bazza.png","image"]
 :HL["/idv/bazza/assets/moletom-bazza.png","image"]
 :HL["/idv/bazza/assets/mockup-garrafas-bazza.png","image"]
 :HL["/idv/bazza/assets/logos/creme-reduzido.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Wnm0VntQKBc8ELgnDGtlL"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"G79aN0y7nmjTe4iE1Qaw4"}
