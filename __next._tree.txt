@@ -12,4 +12,4 @@
 :HL["/idv/bazza/assets/mockup-garrafas-bazza.png","image"]
 :HL["/idv/bazza/assets/moletom-bazza.png","image"]
 :HL["/idv/bazza/assets/logos/creme-reduzido.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Kf0agswbtSpgH0JTWF0As"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"czH7r0nz-hLoiQWozlt-2"}
